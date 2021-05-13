@@ -31,6 +31,7 @@ I started with diving the text content and image content in same row for desktop
 ## Author
 
 - Frontend Mentor - [@saxenataya](https://www.frontendmentor.io/profile/saxenatanya)
+- Solution - https://saxenatanya.github.io/FrontEndMentorChallenges/
 - LinkedIn - [Tanya Saxena](https://www.linkedin.com/in/tanya-saxena-1759311b8/)
 
 
