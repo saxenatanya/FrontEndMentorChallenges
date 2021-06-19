@@ -1,6 +1,9 @@
 # FrontEndMentorChallenges
 This repo includes challenges i did from https://www.frontendmentor.io/challenges
 
+![image](https://user-images.githubusercontent.com/82470912/122643248-c74c9700-d0dc-11eb-9433-468b8cc42acd.png)
+
+
 # Frontend Mentor - Stats preview card component solution
 
 #Overview
